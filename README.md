@@ -11,5 +11,6 @@ In order to develop this project, following software tools are used:
  
 1. Dev C++ 
 2. C++ 
-3. File Handling 4. MS word 
+3. File Handling
+4. MS word 
 5. Error Handling 
